@@ -2,6 +2,7 @@
 
 ## How to login to GitHub or GitHub Enterprise
 
+0.5 Install the Visual Studio extension "GitHub Extension for Visual Studio"
 1. In Visual Studio, select **Team Explorer** from the **View** menu.
     <a href="images/view_team_explorer.png?raw=true" target="_blank"><div><img src="images/view_team_explorer.png" alt="Team Explorer in the view menu" width="500px"/></div></a>
 1. In the Team Explorer pane, click the **Manage Connections** toolbar icon.
